@@ -1,9 +1,10 @@
-
-## Hi, I'm Vitor Akira Uehara
+<h1 align ="center"> Hi, I'm Vitor Akira Uehara</h1>
 
 - 📚 I'm currently studying Information Systems at [Mackenzie Presbyterian University](https://www.mackenzie.br)<br>
 - 🧠 I'm interested in both front-end and back-end development.<br>
 - 📍 From SP, Brazil.<br>
-<br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitor-akira)](https://github.com/vitor-akira/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-akira)](https://github.com/vitor-akira/github-readme-stats)
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=vitor-akira&show_icons=true&locale=en" alt="vitor-akira" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vitor-akira&show_icons=true&locale=en&layout=compact" alt="vitor-akira" /></p>
+
